@@ -1,5 +1,6 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-
+### NAME : Sangeetha S
+### REG NO : 212224040287
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
@@ -63,7 +64,8 @@ Key Differences:
 **Expected Output:**  
 Square of 6 is 36
 
----
+![image](https://github.com/user-attachments/assets/f1fd3269-40e7-4430-b782-71bad84a5d87)
+
 
 ## 2. Write a PL/SQL Function to Return the Factorial of a Number
 
@@ -77,7 +79,8 @@ Square of 6 is 36
 **Expected Output:**  
 Factorial of 5 is 120
 
----
+![image](https://github.com/user-attachments/assets/9c024aa6-f9f8-41c4-85c1-0a4b3591db06)
+
 
 ## 3. Write a PL/SQL Procedure to Check Whether a Number is Even or Odd
 
@@ -90,7 +93,8 @@ Factorial of 5 is 120
 **Expected Output:**  
 12 is Even
 
----
+![image](https://github.com/user-attachments/assets/e185f24f-f129-495d-bb76-7bef61163e98)
+
 
 ## 4. Write a PL/SQL Function to Return the Reverse of a Number
 
@@ -104,7 +108,8 @@ Factorial of 5 is 120
 **Expected Output:**  
 Reversed number of 1234 is 4321
 
----
+![image](https://github.com/user-attachments/assets/a3772724-aabe-4738-a5e4-fa0301fa50b5)
+
 
 ## 5. Write a PL/SQL Procedure to Display the Multiplication Table of a Number
 
@@ -121,6 +126,10 @@ Multiplication table of 5:
 5 x 3 = 15  
 ...  
 5 x 10 = 50
+
+![image](https://github.com/user-attachments/assets/044a08e3-bf14-4caa-9267-fbd61efa3307)
+
+
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
