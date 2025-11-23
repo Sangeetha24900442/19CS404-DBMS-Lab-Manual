@@ -1,5 +1,6 @@
 # Experiment 8: PL/SQL Cursor Programs
-
+### NAME : Sangeetha S
+### REG NO : 212224040287
 ## AIM
 To write and execute PL/SQL programs using cursors and exception handling to manage runtime errors effectively and display appropriate messages.
 
@@ -79,7 +80,8 @@ END;
 **Output:**  
 The program should display the employee details or an error message.
 
----
+![image](https://github.com/user-attachments/assets/b73e5f2e-5272-4364-90ac-ef6dd94d7c9a)
+
 
 ### **Question 2: Parameterized Cursor with Exception Handling**
 
@@ -98,7 +100,9 @@ The program should display the employee details or an error message.
 **Output:**  
 The program should display the employee details within the specified salary range or an error message if no data is found.
 
----
+![image](https://github.com/user-attachments/assets/45612d64-14c7-43e2-ae0b-ab4b7fa7fc8c)
+![image](https://github.com/user-attachments/assets/8f91f402-c3fe-4d4b-b5f0-4e37e3075d67)
+
 
 ### **Question 3: Cursor FOR Loop with Exception Handling**
 
@@ -117,7 +121,9 @@ The program should display the employee details within the specified salary rang
 **Output:**  
 The program should display employee names with their department numbers or the appropriate error message if no data is found.
 
----
+![image](https://github.com/user-attachments/assets/e8b8937d-741e-4477-9975-4633d0fa5c70)
+![image](https://github.com/user-attachments/assets/075896b3-d232-46e1-9733-1efc8484a56c)
+
 
 ### **Question 4: Cursor with `%ROWTYPE` and Exception Handling**
 
@@ -136,7 +142,8 @@ The program should display employee names with their department numbers or the a
 **Output:**  
 The program should display employee records or the appropriate error message if no data is found.
 
----
+![image](https://github.com/user-attachments/assets/07c56814-36be-4e78-823c-3d1b7ae649fd)
+
 
 ### **Question 5: Cursor with FOR UPDATE Clause and Exception Handling**
 
@@ -155,8 +162,8 @@ The program should display employee records or the appropriate error message if 
 **Output:**  
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
 
----
+![image](https://github.com/user-attachments/assets/cad0582d-13a1-464c-b3a9-ec7279f8b4bc)
+
 
 ## RESULT
 Thus, the program successfully executed and displayed employee details using a cursor. 
-
