@@ -338,6 +338,7 @@ CREATE TABLE Invoices (
 ```
 
 **Output:**
+
 <img width="833" height="375" alt="image" src="https://github.com/user-attachments/assets/856bdc1e-8c98-4393-845e-5502064b3a4e" />
 
 
